@@ -20,7 +20,7 @@
 #define UUID_LEN 37
 
 // Variáveis de ambiente (com defaults)
-char WORKER_UUID[UUID_LEN] = "Worker_Uno";
+char WORKER_UUID[UUID_LEN] = "Worker_Dos";
 char MASTER_HOST[256] = "127.0.0.1";
 int MASTER_PORT = 7070;
 double HEARTBEAT_INTERVAL = 6.0;
