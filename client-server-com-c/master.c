@@ -21,7 +21,7 @@
 // Variáveis de ambiente (com defaults)
 char MASTER_UUID[UUID_LEN] = "Master_A";
 char HOST[256] = "0.0.0.0";
-int PORT = 9000;
+int PORT = 7070;
 int OVERLOAD_THRESHOLD = 5;
 double TASK_GEN_INTERVAL = 2.0;
 double LOAD_REPORT_INTERVAL = 10.0;

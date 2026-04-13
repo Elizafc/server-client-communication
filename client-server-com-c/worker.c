@@ -22,7 +22,7 @@
 // Variáveis de ambiente (com defaults)
 char WORKER_UUID[UUID_LEN] = "Worker_A1";
 char MASTER_HOST[256] = "127.0.0.1";
-int MASTER_PORT = 9000;
+int MASTER_PORT = 7070;
 double HEARTBEAT_INTERVAL = 6.0;
 double RECONNECT_DELAY = 5.0;
 double SOCKET_TIMEOUT = 10.0;
