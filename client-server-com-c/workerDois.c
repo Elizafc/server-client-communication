@@ -16,6 +16,7 @@
 #include <openssl/sha.h>
 #include <zlib.h>
 
+// Comando para compilar: gcc -o worker worker.c -ljansson -lssl -lcrypto -lz -lpthread -lm -Wall -O2
 #define BUFFER_SIZE 4096
 #define UUID_LEN 37
 
